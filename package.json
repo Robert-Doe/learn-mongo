@@ -1,0 +1,24 @@
+{
+  "name": "learn_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6",
+    "npm": "^6.14.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
